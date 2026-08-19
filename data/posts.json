@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "first-post",
+    "title": "My First Blog Post",
+    "content": "This is the full content of the first post written with Next.js App Router."
+  },
+  {
+    "slug": "learning-nextjs",
+    "title": "Learning Next.js and Vercel",
+    "content": "Next.js makes full-stack React development straightforward and fast."
+  }
+]
