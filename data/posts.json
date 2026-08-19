@@ -1,12 +1,42 @@
 [
   {
-    "slug": "first-post",
-    "title": "My First Blog Post",
-    "content": "This is the full content of the first post written with Next.js App Router."
+    "slug": "getting-started-with-nextjs",
+    "title": "Mastering Next.js App Router & Server Components",
+    "excerpt": "Discover how Next.js transforms full-stack React development with server-side rendering, streaming, and component architecture.",
+    "content": "Next.js has fundamentally shifted how web applications are architected. By introducing React Server Components into the App Router, developers can fetch data on the server with zero client-side JavaScript runtime overhead. This architecture provides lightning-fast initial page loads, improved SEO performance out of the box, and intuitive directory-based routing.",
+    "category": "Next.js",
+    "author": "Alex Rivera",
+    "date": "Aug 18, 2026",
+    "readTime": "4 min read"
   },
   {
-    "slug": "learning-nextjs",
-    "title": "Learning Next.js and Vercel",
-    "content": "Next.js makes full-stack React development straightforward and fast."
+    "slug": "tailwind-v4-guide",
+    "title": "What's New in Tailwind CSS v4 Engine",
+    "excerpt": "A deep dive into the performance gains, CSS-first configuration, and native browser features in modern Tailwind CSS.",
+    "content": "Tailwind CSS v4 introduces a reimagined compilation engine built for extreme speed. By moving configuration straight into CSS files via standard imports, developers no longer need heavy JavaScript config files for basic setups. Combining container queries, modern color spaces like OKLCH, and native nesting makes building feel-good user interfaces faster than ever.",
+    "category": "CSS",
+    "author": "Devon Chen",
+    "date": "Aug 12, 2026",
+    "readTime": "3 min read"
+  },
+  {
+    "slug": "mastering-git-workflows",
+    "title": "Essential Git Workflows for Modern Teams",
+    "excerpt": "Move beyond basic commits and pushes to master rebasing, stashing, and conflict-free branch management.",
+    "content": "While basic Git commands like commit and push cover daily essentials, mastering interactive rebasing and stashing turns version control into a superpower. Stashing allows you to quickly isolate working progress when switching context, while clean rebase strategies prevent noisy merge commits in shared repositories.",
+    "category": "DevOps",
+    "author": "Sarah Jenkins",
+    "date": "Aug 05, 2026",
+    "readTime": "6 min read"
+  },
+  {
+    "slug": "deploying-to-vercel",
+    "title": "Zero-Downtime Deployments with Vercel & GitHub Actions",
+    "excerpt": "How automated CI/CD pipelines and Vercel preview environments streamline shipping production code.",
+    "content": "Continuous integration is the backbone of high-velocity development teams. Linking your GitHub repository directly to Vercel provides automatic preview URLs for every pull request, allowing teammates to test features in isolated environments before hitting production.",
+    "category": "Deployment",
+    "author": "Elena Rostova",
+    "date": "Jul 28, 2026",
+    "readTime": "5 min read"
   }
 ]
